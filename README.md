@@ -8,3 +8,7 @@ It is important to point out that Python version 3.10.5 under Windows 10 was use
 
 ![image](https://github.com/YakoViTo/Hopfield/assets/135473233/765c8975-b599-44b9-81e1-9542be8f40b9)
 ![image](https://github.com/YakoViTo/Hopfield/assets/135473233/51dcb018-251b-4a20-8664-22c5f8a442e7)
+
+The code will produce two figures: the original patterns and the recovered patterns. The Hopfield network should be able to remember the patterns of letters A, B and C and retrieve them even in the presence of noisy or incomplete patterns.
+
+The Hopfield neural network is an interesting tool for storing and retrieving associative patterns. In this case, the network has successfully remembered and retrieved the patterns of letters A, B and C, even when presented with noisy or incomplete patterns. It is essential to consider that the storage capacity of the Hopfield network is related to the number of neurons and may have limitations for storing a large number of patterns. However, for this given set of patterns and configuration, the network has demonstrated good performance in retrieving letter patterns.
